@@ -10,7 +10,9 @@ A few themes you'll often find in my illustrations:
 - Feelings in motion: metaphors for growth, sorrow, and transformation
 - Surreal worlds: strange characters, layered meaning, and quiet symbolism
 
-Here you can enjoy some examples of my favorite illustrations, styles and creative explorations.
+#### *Here you can enjoy some examples of my favorite illustrations, styles and creative explorations.*
+
+###
 
 <p align="center">
 <img src="Full Gallery/Quest of the Little Dreamer.jpeg" width="200" style="margin-right: 2px;"/>
