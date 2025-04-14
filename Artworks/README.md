@@ -1,14 +1,19 @@
 ## 🖌️ About the Work
-My style varies depending on mood and concept: from dreamy and symbolic to passionate and emotional. I love working with strong contrasts, soft textures, and expressive characters. Every piece starts with a spark of an idea and grows into a visual moment that invites emotion or reflection. 
+My art tends to shift with whatever feeling or idea I’m chasing. Sometimes it’s soft and symbolic, other times bold and emotional. I love playing with **contrasts**, gentle textures, and **expressive characters** that feel alive and a little mysterious. Most of my pieces begin with a small spark (a feeling, a thought, a phrase) and slowly grow into something tangible.
 
-Whenever I work on a visual project, I completely immerse myself in the porcess and go on and on after each details. It's like existing in a different state of being, a truly wonderful experience.
+Whenever I work with images, I lose track of time. I get completely absorbed in the process, obsessing over every tiny detail. It’s one of the purest joys I know, like slipping into another world where everything makes sense in color and shape.
 
-## 🌈 Common Themes
-Here are a few themes you might come across in this gallery:
-- Childhood imagination: daydreams, inner heroes, fantasy worlds
-- Light and shadow: contrasts between hope, fear, and self-discovery
-- Emotional states: visual metaphors for growth, struggle, healing
-- Surreal realms: strange characters and layered symbolism
+## 🌈 Themes I Come Back To
+A few themes you'll often find in my illustrations:
+- Childhood imagination: daydreams, inner heroes and fantasy adventures
+- Light and shadow: emotional contrasts, hope through darkness
+- Feelings in motion: metaphors for growth, sorrow, and transformation
+- Surreal worlds: strange characters, layered meaning, and quiet symbolism
 
-🛠️ Tools
-All pieces were created using Procreate on iPad, with custom brushes and a lot of love.
+Here you can enjoy some examples of my favorite illustrations, styles and creative explorations.
+
+<img src="Gallery/Quest of the Little Dreamer.jpeg" alt="Quest of the Little Dreamer" width="400"/>
+
+
+#### 🛠️ Tools
+All artworks were made in *Procreate* and *Pixel Studio* on my iPad.
