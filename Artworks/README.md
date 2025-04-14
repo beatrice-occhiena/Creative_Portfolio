@@ -12,21 +12,23 @@ A few themes you'll often find in my illustrations:
 
 Here you can enjoy some examples of my favorite illustrations, styles and creative explorations.
 
-<p float="left">
-<img src="Full Gallery/Quest of the Little Dreamer.jpeg" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Eel Lady.png" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Foam Commander.png" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Mirror self love.jpeg" width="100" style="margin-right: 2px;"/>
+<p align="center">
+<img src="Full Gallery/Quest of the Little Dreamer.jpeg" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Eel Lady.png" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Foam Commander.png" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Mirror self love.jpeg" width="200" style="margin-right: 2px;"/>
 </p>
 
-<p float="left">
-<img src="Full Gallery/Playground Hero.jpeg" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Soft as Strength.jpeg" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Judgement Scent.jpeg" width="100" style="margin-right: 2px;"/>
-<img src="Full Gallery/Limerence dance.jpeg" width="100" style="margin-right: 2px;"/>
+<p align="center">
+<img src="Full Gallery/Playground Hero.jpeg" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Soft as Strength.jpeg" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Judgement Scent.jpeg" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Limerence dance.jpeg" width="200" style="margin-right: 2px;"/>
 </p>
 
+<p align="center">
 <img src="Full Gallery/Pixel Lab Scene.jpeg" width="400" style="margin-right: 2px;"/>
+</p>
 
 
 
