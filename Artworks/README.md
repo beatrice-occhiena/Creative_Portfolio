@@ -23,7 +23,7 @@ Here you can enjoy some examples of my favorite illustrations, styles and creati
 <img src="Full Gallery/Playground Hero.jpeg" width="200" style="margin-right: 2px;"/>
 <img src="Full Gallery/Soft as Strength.jpeg" width="200" style="margin-right: 2px;"/>
 <img src="Full Gallery/Judgement Scent.jpeg" width="200" style="margin-right: 2px;"/>
-<img src="Full Gallery/Limerence dance.jpeg" width="200" style="margin-right: 2px;"/>
+<img src="Full Gallery/Emotional Intensity 3.jpeg" width="200" style="margin-right: 2px;"/>
 </p>
 
 <p align="center">
