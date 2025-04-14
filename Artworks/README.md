@@ -12,7 +12,18 @@ A few themes you'll often find in my illustrations:
 
 Here you can enjoy some examples of my favorite illustrations, styles and creative explorations.
 
-<img src="Gallery/Quest of the Little Dreamer.jpeg" alt="Quest of the Little Dreamer" width="400"/>
+<img src="Full Gallery/Quest of the Little Dreamer.jpeg" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Eel Lady.png" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Foam Commander.png" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Mirror self love.jpeg" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Playground Hero.jpeg" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Soft as Strength.jpeg" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Judgement Scent.jpeg" width="100" style="margin-right: 2px;"/>
+<img src="Full Gallery/Limerence dance.jpeg" width="100" style="margin-right: 2px;"/>
+
+<img src="Full Gallery/Pixel Lab Scene.jpeg" width="400" style="margin-right: 2px;"/>
+
+
 
 
 #### 🛠️ Tools
