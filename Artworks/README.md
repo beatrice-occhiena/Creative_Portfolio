@@ -27,7 +27,7 @@ Here you can enjoy some examples of my favorite illustrations, styles and creati
 </p>
 
 <p align="center">
-<img src="Full Gallery/Pixel Lab Scene.jpeg" width="400" style="margin-right: 2px;"/>
+<img src="Full Gallery/Pixel Lab Scene.jpeg" width="800" style="margin-right: 2px;"/>
 </p>
 
 
