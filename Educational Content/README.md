@@ -10,6 +10,9 @@ This folder includes a variety of visual materials I’ve used for teaching and 
 - 🧮 Problem-solving diagrams: to break down algorithmic thinking into intuitive steps
 - 🌀 Infinite canvas: in depth notes that zoom out to reveal big-picture structure and flow
 - 🧾 Annotated materials: from real tutoring sessions and group study meetups
+###
+<img src="assets/image.png" width="400" style="margin-right: 2px;"/>
+
 
 ### 💬 A Personal Note
 > Hi! My name is Beatrice, and I recently graduated in Computer Engineering with a specialization in Artificial Intelligence. Throughout my studies, I found myself constantly exploring new topics. Like many self-learners, I’ve always relied on the generosity of others who share their work freely online. Every time I discovered a clear, thoughtful explanation or beautifully designed resource, it felt like a small gift — and it inspired me to give back!
